@@ -1,0 +1,9 @@
+@charset "utf-8";
+.copyright {
+	text-align: right;
+	clear: left;
+	float: left;
+	width: 700px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #0ACC0E;
+}

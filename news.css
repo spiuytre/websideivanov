@@ -1,0 +1,10 @@
+@charset "utf-8";
+.news {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	float: left;
+	width: 100px;
+	font-style: normal;
+	border: thin solid #343434;
+}

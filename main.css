@@ -1,0 +1,28 @@
+@charset "utf-8";
+.main {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-style: oblique;
+	color: #E5090C;
+	float: left;
+	width: 496px;
+	text-align: left;
+	padding: 5px;
+}
+.image {
+	float: left;
+	width: 100px;
+}
+.image {
+	float: left;
+	width: 100px;
+}
+.image {
+	float: left;
+	width: 100px;
+}
+.image {
+	float: left;
+	width: 100px;
+	padding: 20px;
+}
